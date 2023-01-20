@@ -1,0 +1,5 @@
+. ~/.nvm/nvm.sh
+. ~/.profile
+. ~/.bashrc
+
+nvm use && npm $1
